@@ -6,7 +6,7 @@
 <!---
 - 🌱 I’m currently learning 
 --->
-- 💞️ I’m looking to collaborate on some project where I could partecipate while traveling
+- 💞️ I’m looking to collaborate on some project where I could participate while traveling
 
 - 📫 You can get in contact with me on https://www.linkedin.com/in/daniele-rugginenti/
 
